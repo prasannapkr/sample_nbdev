@@ -2,9 +2,6 @@
 > Summary description here.
 
 
-for documentation click 
-https://prasannapkr.github.io/sample_nbdev/
-
 This file will become your README and also the index of your documentation.
 
 ## Install

@@ -6,8 +6,8 @@ index = {"say_hello": "00_core.ipynb"}
 
 modules = ["core.py"]
 
-doc_url = "https://fastai.github.io/nbdev_template/"
+doc_url = "https://prasannapkr.github.io/nbdev_template/"
 
-git_url = "https://github.com/fastai/nbdev_template/tree/master/"
+git_url = "https://github.com/prasannapkr/nbdev_template/tree/master/"
 
 def custom_doc_links(name): return None
