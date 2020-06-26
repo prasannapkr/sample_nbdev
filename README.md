@@ -1,4 +1,4 @@
-# Project name here
+# sample_nbdev
 > Summary description here.
 
 
